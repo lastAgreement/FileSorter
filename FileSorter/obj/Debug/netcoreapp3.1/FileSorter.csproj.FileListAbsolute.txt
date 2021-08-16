@@ -1,0 +1,13 @@
+C:\Projects\Тестовые задания\FileSorter\FileSorter\bin\Debug\netcoreapp3.1\FileSorter.exe
+C:\Projects\Тестовые задания\FileSorter\FileSorter\bin\Debug\netcoreapp3.1\FileSorter.deps.json
+C:\Projects\Тестовые задания\FileSorter\FileSorter\bin\Debug\netcoreapp3.1\FileSorter.runtimeconfig.json
+C:\Projects\Тестовые задания\FileSorter\FileSorter\bin\Debug\netcoreapp3.1\FileSorter.runtimeconfig.dev.json
+C:\Projects\Тестовые задания\FileSorter\FileSorter\bin\Debug\netcoreapp3.1\FileSorter.dll
+C:\Projects\Тестовые задания\FileSorter\FileSorter\bin\Debug\netcoreapp3.1\FileSorter.pdb
+C:\Projects\Тестовые задания\FileSorter\FileSorter\obj\Debug\netcoreapp3.1\FileSorter.csprojAssemblyReference.cache
+C:\Projects\Тестовые задания\FileSorter\FileSorter\obj\Debug\netcoreapp3.1\FileSorter.AssemblyInfoInputs.cache
+C:\Projects\Тестовые задания\FileSorter\FileSorter\obj\Debug\netcoreapp3.1\FileSorter.AssemblyInfo.cs
+C:\Projects\Тестовые задания\FileSorter\FileSorter\obj\Debug\netcoreapp3.1\FileSorter.csproj.CoreCompileInputs.cache
+C:\Projects\Тестовые задания\FileSorter\FileSorter\obj\Debug\netcoreapp3.1\FileSorter.dll
+C:\Projects\Тестовые задания\FileSorter\FileSorter\obj\Debug\netcoreapp3.1\FileSorter.pdb
+C:\Projects\Тестовые задания\FileSorter\FileSorter\obj\Debug\netcoreapp3.1\FileSorter.genruntimeconfig.cache
